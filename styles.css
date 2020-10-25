@@ -1,0 +1,89 @@
+body {
+    background-color: #e8eaee;
+  }
+  .container {
+    text-align: center;
+  }
+  
+  .container-title {
+    margin: 20px;
+  }
+  
+  .title {
+    font-size: 50px;
+    margin: 0;
+  }
+  
+  .subtitle {
+    font-size: 20px;
+    margin: 0;
+  }
+  
+  .buttons-title {
+    font-size: 15px;
+  }
+  
+  .title-separator {
+    border-color: rgba(0, 0, 0, 0.05);
+    margin: 0 20px;
+  }
+  
+  .container-button {
+    margin: 0px 0px 10px 0px;
+  }
+  
+  .div-buttons {
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+  }
+  
+  .button-yes {
+    background-color: #017cfc;
+    color: white;
+    border-radius: 4px;
+    border: none;
+    padding: 7px;
+    width: 50px;
+    margin: 10px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .button-no {
+    background-color: #d73644;
+    color: white;
+    border-radius: 4px;
+    border: none;
+    padding: 7px;
+    width: 50px;
+    margin: 10px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .congratulations-box {
+    background-color: #d5ecd9;
+    display: inline-block;
+    padding: 5px 80px;
+  }
+  
+  .congratulations-title {
+    font-size: 22px;
+    margin: 15px;
+  }
+  
+  .congratulations-subtitle {
+    font-size: 15px;
+    margin: 15px;
+  }
+  
+  .congratulations-message {
+    margin-top: 20px;
+    font-size: 16px;
+  }
+  
+  .congratulations-separator {
+    border-color: rgba(0, 0, 0, 0.05);
+    margin: 0 -50px;
+  }
