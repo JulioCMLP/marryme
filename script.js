@@ -14,12 +14,12 @@ yesButton.addEventListener("click", (e) => {
   e.preventDefault();
   congratulationsContainer.innerHTML = `
     <span class="congratulations-box">
-        <p class="congratulations-title">Great!!!</p>
+        <p class="congratulations-title">Excelente!!!</p>
         <p class="congratulations-subtitle">
-        You have made the best decision. Love and be happy!!!!
+        Hiciste la mejor decisión. Ámame y se feliz!!!!
         </p>
         <hr class="congratulations-separator"/>
-        <p class="congratulations-message">Congratulations!</p>
+        <p class="congratulations-message">Felicitaciones!</p>
     </span>
   `;
 });
